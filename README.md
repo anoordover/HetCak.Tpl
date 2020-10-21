@@ -1,8 +1,8 @@
 # Aanleiding
 
-In het component BRI (Broninhouding) moeten wij in een bluk-verwerking
-een inhoudingsbestand aanmaken.
-Bij het aanmaken van dit bestand moeten wij persoon-identificaties omzetten in BSN's.
+In het component XXX (Xxxx) moeten wij in een bluk-verwerking
+een bestand aanmaken.
+Bij het aanmaken van dit bestand moeten wij identificaties omzetten in BSN's.
 Om optimaal gebruik te maken van resources zouden we deze omzettingen parallel willen doen.
 Aandachtspunt hierbij is echter dat de methode die de omzetting naar de BSN doet een Task
 teruggeeft.
